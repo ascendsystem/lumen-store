@@ -1,0 +1,4 @@
+/* Square images and uninterrupted movement in the review carousel. */
+.reviews .review-track:hover{animation-play-state:running!important}
+.reviews .review-photo{width:100%!important;height:auto!important;aspect-ratio:1 / 1!important;object-fit:cover!important;border-radius:0!important}
+.reviews .review-card{border-radius:0!important}

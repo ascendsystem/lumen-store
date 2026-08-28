@@ -1,0 +1,2 @@
+/* Imágenes de producto suministradas por el propietario. */
+.count-section::before{background-image:url('../assets/images/lumen-hero.png')}.utility{background-image:linear-gradient(90deg,#fff 0%,#fff 54%,#ffffffa6),url('../assets/images/lumen-hero.png')}
